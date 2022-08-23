@@ -6,6 +6,7 @@
       "files": ["*.ts"],
       "parserOptions": {
         "project": ["tsconfig.json", "e2e/tsconfig.json"],
+		"tsconfigRootDir": "C:/Users/carol/Desktop/PROYECTOS/portfolio/",
         "createDefaultProgram": true
       },
       "extends": [
